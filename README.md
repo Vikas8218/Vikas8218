@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vikas saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="left" alt="coding" width="350" src="https://media.licdn.com/dms/image/D4D22AQFOiE5Ote9koQ/feedshare-shrink_1280/0/1698233447808?e=1718841600&v=beta&t=m1EjVLPtrBNeoMFjP3T17tv9zmOPKsc4HQP4FpAQrvM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas8218&label=Profile%20views&color=0e75b6&style=flat" alt="vikas8218" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas8218" alt="vikas8218" /></a> </p>
