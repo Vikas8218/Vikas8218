@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm vikas saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQFOiE5Ote9koQ/feedshare-shrink_800/0/1698233447808?e=1718841600&v=beta&t=wQtFsJR-TD5Et7Xcsvwc98a2nFvLBwMqXOmlrN6-_YM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas8218&label=Profile%20views&color=0e75b6&style=flat" alt="vikas8218" /> </p>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas8218" alt="vikas8218" /></a> </p>
 
@@ -17,7 +19,7 @@
 
 - 📫 How to reach me **vikas08218@gmail.com**
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikas saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas saini" height="30" width="40" /></a>
 </p>
