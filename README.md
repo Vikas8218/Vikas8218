@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vikas saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="right"> alt ="coding" width="400" src="![image](https://github.com/Vikas8218/Vikas8218/assets/160480038/a27a64cf-eab4-4f1f-8d5b-cc58620b6e90)
-"
+<img align ="right" alt ="coding" width="400" src="![image](https://github.com/Vikas8218/Vikas8218/assets/160480038/a27a64cf-eab4-4f1f-8d5b-cc58620b6e90)
+">
 <img align="left" alt="coding" width="350" src="https://media.licdn.com/dms/image/D4D22AQFOiE5Ote9koQ/feedshare-shrink_1280/0/1698233447808?e=1718841600&v=beta&t=m1EjVLPtrBNeoMFjP3T17tv9zmOPKsc4HQP4FpAQrvM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas8218&label=Profile%20views&color=0e75b6&style=flat" alt="vikas8218" /> </p>
 
